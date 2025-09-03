@@ -15,5 +15,5 @@ pip install zombiedice
 - Practicing simulation and Risk analysis.
 
 # Result
-- Quant Zombie wins around 32+ games out of 1000.
+- Quant Zombie wins around 320+ games out of 1000.
 - Failed to defeat Shotgun Zombie.
