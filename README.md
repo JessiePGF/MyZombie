@@ -1,4 +1,4 @@
-# Quant Zombie
+# Monte Zombie
 A zombie build for Zombie Dice game, designed to make rational stop/roll decisions using Monte Carlo simulation.
 
 # Strategy
