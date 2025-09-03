@@ -18,7 +18,7 @@ class MyZombie:  # stop when 2 shotgun appears
                 break
 
 
-class MyZombieq:  # quant zombie
+class MyZombieq:  # monte zombie
     def  __init__(self, name):
         self.name = name
 
@@ -64,6 +64,6 @@ class MyZombieq:  # quant zombie
 
 
 zombies = (MyZombie(name = 'Shotgun Zombie'),
-           MyZombieq(name = 'Quant Zombie'))
+           MyZombieq(name = 'Monte Zombie'))
 
 zombiedice.runWebGui(zombies=zombies, numGames=1000)
